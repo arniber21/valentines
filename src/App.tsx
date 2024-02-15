@@ -62,6 +62,10 @@ export default function Page() {
               {noCount === 0 ? "No" : getNoButtonText()}
             </button>
           </div>
+          <img
+            className="h-[200px]"
+            src="https://static.wikia.nocookie.net/fcs-vs-battle/images/c/c2/Sagume_Kishin_Vector.png"
+          />
         </>
       )}
     </div>
